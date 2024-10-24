@@ -1,4 +1,4 @@
 # chaturbate m3u8
-https://raw.githubusercontent.com/Axlax336/iptv/refs/heads/main/Chaturbate.m3u
+https://raw.githubusercontent.com/Axlax336/iptv_m3u/refs/heads/main/Chaturbate.m3u
 # 自用订阅源：
 - ALL：Adult 
