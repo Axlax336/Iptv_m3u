@@ -1,4 +1,8 @@
-#EXTM3U # Last Updated: 2024-10-27 23:41:51
+#EXTM3U # Last Updated: 2024-10-28 00:21:59
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/7/9/67930938c669673b8691f9c297b86452-full",M_Ema (Stripchat)
+https://edge-hls.doppiocdn.live/hls/161063697/master/161063697_auto.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/9/5/7956be8baecfc162de293097fc22d6e1-full",POCARI_SWEAT (Stripchat)
+https://edge-hls.doppiocdn.live/hls/126242110/master/126242110_auto.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/7/5/37511afc6d0602d26d6fec2c9a80b229-full",HaruruHappy (Stripchat)
 https://edge-hls.doppiocdn.live/hls/148796760/master/148796760_auto.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/e/3/de3726aa0e3903cb5d3f1c9dca94b381-full",ASUKA-TV (Stripchat)
