@@ -5,6 +5,26 @@
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1 group-title="轮播",🍌香蕉臺
 http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/dollorrie.jpg?1731139941", dollorrie_CB 
+https://edge30-sin.live.mmcdn.com/live-edge/amlst:dollorrie-sd-a64822589d57694fe4334144a5c8a621c1928ce70029e604694c4f2446dccc5a_trns_h264/chunklist_w1748535794_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/prettyshina.jpg?1731139927", prettyshina_CB 
+https://edge17-nrt.live.mmcdn.com/live-edge/amlst:prettyshina-sd-d758be6b1e3a05d7b5a427a1a54509df23997f9c60aa47c879c8f2bbbf946fbc_trns_h264/chunklist_w2100811502_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/sexy_sunnny.jpg?1731139842", sexy_sunnny_CB 
+https://edge18-nrt.live.mmcdn.com/live-edge/amlst:sexy_sunnny-sd-af5feec3de07f2aa07fafc580acac505fbb57c2a1cae0be005a0e9808820e63c_trns_h264/chunklist_w628483605_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/totoro_22.jpg?1731139834", totoro_22_CB 
+https://edge8-nrt.live.mmcdn.com/live-edge/amlst:totoro_22-sd-8f05ff4faaa611a25e26c92ba01bb0612ffe6304c3e5ce4d1a91bafbe0e43b61_trns_h264/chunklist_w2106665296_b1848000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/girl_next_door19.jpg?1731139778", girl_next_door19_CB 
+https://edge14-nrt.live.mmcdn.com/live-edge/amlst:girl_next_door19-sd-c9571fd521812b4502f58ae38b73f86ef04c6c0b4896e5d2894df4bea185c910_trns_h264/chunklist_w414595337_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/beverlyvega.jpg?1731139725", beverlyvega_CB 
+https://edge16-nrt.live.mmcdn.com/live-edge/amlst:beverlyvega-sd-ba64154d65e6ab591b489b4d5919b4bc07645ddb4484b1463a9fc5d8e3d6a7b6_trns_h264/chunklist_w278636240_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/ksyushy.jpg?1731139719", ksyushy_CB 
+https://edge3-sin.live.mmcdn.com/live-edge/amlst:ksyushy-sd-d7a188ff7dfcff99e41437d6a7ade56fbe6af4bec4c632e5ff9ac34c0014e7fc_trns_h264/chunklist_w471984238_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/alodiebracher.jpg?1731139638", alodiebracher_CB 
+https://edge10-nrt.live.mmcdn.com/live-edge/amlst:alodiebracher-sd-bd32d9144084ebea45abdc4b240912dac19ae7b77f882a966828fcac185e4996_trns_h264/chunklist_w94887534_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/taitehambelton.jpg?1731139481", taitehambelton_CB 
+https://edge17-sin.live.mmcdn.com/live-edge/amlst:taitehambelton-sd-b7df4fc159221c62640ed43fb62cab8a7a03d396b872c6db4db2b8dbcd7f7df7_trns_h264/chunklist_w611147339_b3096000_t64RlBTOjI1LjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/alodiebracher.jpg?1731138967", alodiebracher_CB 
+https://edge10-nrt.live.mmcdn.com/live-edge/amlst:alodiebracher-sd-bd32d9144084ebea45abdc4b240912dac19ae7b77f882a966828fcac185e4996_trns_h264/chunklist_w415473124_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/tadammary.jpg?1731138603", tadammary_CB 
 https://edge17-nrt.live.mmcdn.com/live-edge/amlst:tadammary-sd-595cef9cf93cc237b4fba966665fb065935c4ecdc1d3d05a3b4ba7d950fa5045_trns_h264/chunklist_w1433081927_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/riskyproject.jpg?1731136072", riskyproject_CB 
@@ -17,8 +37,6 @@ https://edge6-nrt.live.mmcdn.com/live-edge/amlst:veronikaav-sd-68f0bb700954b4f35
 https://edge18-sin.live.mmcdn.com/live-edge/amlst:_magic_smile_-sd-45ec38c642829ef5014e069d9e14dc71ffb02f33f4bb5004572992f4549ae8a8_trns_h264/chunklist_w1581529362_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/girl_next_door19.jpg?1731134173", girl_next_door19_CB 
 https://edge17-sin.live.mmcdn.com/live-edge/amlst:girl_next_door19-sd-c9571fd521812b4502f58ae38b73f86ef04c6c0b4896e5d2894df4bea185c910_trns_h264/chunklist_w862444028_b3096000_t64RlBTOjMwLjA=.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/sexy_sunnny.jpg?1731132788", sexy_sunnny_CB 
-https://edge18-nrt.live.mmcdn.com/live-edge/amlst:sexy_sunnny-sd-af5feec3de07f2aa07fafc580acac505fbb57c2a1cae0be005a0e9808820e63c_trns_h264/chunklist_w1294502573_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/sweetiebunny22.jpg?1731131414", sweetiebunny22_CB 
 https://edge4-nrt.live.mmcdn.com/live-edge/amlst:sweetiebunny22-sd-8d0b94263691b5338d51a459fddef8e9a63e2fdb7bcab0f4b550fcc0fac57ef1_trns_h264/chunklist_w1851853641_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/lulissa.jpg?1731128838", lulissa_CB 
