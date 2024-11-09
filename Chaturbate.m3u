@@ -6,15 +6,15 @@ http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1 group-title="轮播",🍌香蕉臺
 http://125.227.210.55:8159/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/a/0/fa0e2c66069912d9ee3490e548c7c05b-full" group-title="stripchat", Ava-11
-https://edge-hls.doppiocdn.live/hls/154322068/master/154322068_auto.m3u8
+https://b-hls-24.doppiocdn.live/hls/154322068/154322068.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/f/f/3ff35d732af5ddd2492c5e69587ae53b-full" group-title="stripchat", TuyetNhi2k6
-https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
+https://b-hls-11.doppiocdn.live/hls/140803953/140803953_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/f/5/ff5fb9e7d5077c61d81cde804b5cfd6d-full" group-title="stripchat", Reaowna
-https://edge-hls.doppiocdn.live/hls/99604173/master/99604173_auto.m3u8
+https://b-hls-20.doppiocdn.live/hls/99604173/99604173_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/f/f/3ff35d732af5ddd2492c5e69587ae53b-full" group-title="stripchat", TuyetNhi2k6
 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/3/2/c32a7b5c5dcc79e243e6d49152ed7b4b-full" group-title="stripchat", Regina0807
-https://edge-hls.doppiocdn.live/hls/160147663/master/160147663_auto.m3u8
+https://b-hls-07.doppiocdn.live/hls/160147663/160147663_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/5/5/a55ed21422894b01cdea71141e799163-full" group-title="stripchat", cecilia0903
 https://edge-hls.doppiocdn.live/hls/130468819/master/130468819_auto.m3u8
 #EXTINF:-1 tvg-logo="" group-title="stripchat", JIAJIA_0711
