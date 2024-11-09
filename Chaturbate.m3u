@@ -5,6 +5,12 @@
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1 group-title="轮播",🍌香蕉臺
 http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/enncandy.jpg?1731140033", enncandy_CB 
+https://edge2-sin.live.mmcdn.com/live-edge/amlst:enncandy-sd-5c2193c228b2b7c8f069fe8a57dea70ded45212feaa243732370bc4a522eec96_trns_h264/chunklist_w988867405_b4596000_t64RlBTOjYwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/moiredavy.jpg?1731140015", moiredavy_CB 
+https://edge18-nrt.live.mmcdn.com/live-edge/amlst:moiredavy-sd-428fc4d07d8f80e7fb1e3dac95177e0e7ebb2ffa9f6f7febd153c40c4fd88149_trns_h264/chunklist_w2114222743_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/sweetiebunny22.jpg?1731140009", sweetiebunny22_CB 
+https://edge20-sin.live.mmcdn.com/live-edge/amlst:sweetiebunny22-sd-8d0b94263691b5338d51a459fddef8e9a63e2fdb7bcab0f4b550fcc0fac57ef1_trns_h264/chunklist_w2114599580_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/dollorrie.jpg?1731139941", dollorrie_CB 
 https://edge30-sin.live.mmcdn.com/live-edge/amlst:dollorrie-sd-a64822589d57694fe4334144a5c8a621c1928ce70029e604694c4f2446dccc5a_trns_h264/chunklist_w1748535794_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.live.mmcdn.com/riw/prettyshina.jpg?1731139927", prettyshina_CB 
