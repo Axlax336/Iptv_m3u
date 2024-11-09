@@ -1,10 +1,6 @@
 #EXTM3U # Last Updated: 2024-11-10 03:35:47
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/c/3/fc3a93a4d6ba2eb8d0881a21783de165-full?1731180239" group-title="stripchat", YINGTao-168 
 https://b-hls-21.doppiocdn.live/hls/163958825/163958825_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/c/3/fc3a93a4d6ba2eb8d0881a21783de165-full?1731179475" group-title="stripchat", YINGTao-168 
-https://b-hls-21.doppiocdn.live/hls/163958825/163958825_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/c/3/fc3a93a4d6ba2eb8d0881a21783de165-full?1731178709" group-title="stripchat", YINGTao-168 
-https://b-hls-21.doppiocdn.live/hls/163958825/163958825_720p.m3u8?playlistType=standard
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/2/8/528b0a8f76e3ffbe282a64a98abacc4c-full?1731178824" group-title="stripchat", max688 
 https://b-hls-24.doppiocdn.live/hls/173757145/173757145.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/2/e/02e39ebe70c881148896a4e777b7ddc1-full?1731180293" group-title="stripchat", Daisy-77 
