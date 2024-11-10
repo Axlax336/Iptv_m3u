@@ -1,6 +1,4 @@
 #EXTM3U # Last Updated: 2024-11-11 01:58:26
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/f/f/3ff35d732af5ddd2492c5e69587ae53b-full?1731261506" group-title="stripchat", TuyetNhi2k6 
-https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/f/f/3ff35d732af5ddd2492c5e69587ae53b-full?1731261373" group-title="stripchat", TuyetNhi2k6 
 https://edge-hls.doppiocdn.live/hls/140803953/master/140803953_auto.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/2/8/528b0a8f76e3ffbe282a64a98abacc4c-full?1731260902" group-title="stripchat", max688 
