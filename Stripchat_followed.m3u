@@ -1,4 +1,12 @@
-#EXTM3U # Last Updated: 2024-11-15 01:39:13
+#EXTM3U # Last Updated: 2024-11-15 01:39:34
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/2/7/a27fd98f2c18881862f34e193654f742-thumb-small" group-title="stripchat", orange669 
+https://b-hls-01.doppiocdn.live/hls/171556350/171556350_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/7/1/e/71e1a78e6c8b5cb62e64215f713dcaa6-thumb-small" group-title="stripchat", Duduya_ 
+https://b-hls-23.doppiocdn.live/hls/175621908/175621908.m3u8?playlistType=standard
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/5/4/b548dbf16e38e28631d6cf417c23ac0d-thumb-small" group-title="stripchat", paopao-a 
+https://b-hls-08.doppiocdn.live/hls/163969087/163969087_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/a/e/eae15bdab4574deb851ff86616e5100a-thumb-small" group-title="stripchat", FerFairy 
+https://b-hls-14.doppiocdn.live/hls/157005384/157005384_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/5/a/05a4797fa32fda018d2e77aee8ed0ab7-thumb-small" group-title="stripchat", ZHU-ZHU-38F 
 https://b-hls-12.doppiocdn.live/hls/172745344/172745344_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/6/f/3/6f3252880939a424752b96465628e73c-thumb-small" group-title="stripchat", _hiyor_ 
@@ -69,14 +77,6 @@ https://b-hls-22.doppiocdn.live/hls/125195669/125195669_720p.m3u8
 https://b-hls-11.doppiocdn.live/hls/177921772/177921772.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/0/4/0044ea2d7fcb837c5c9d4eb79c51a7b1-thumb-small" group-title="stripchat", Fountain- 
 https://b-hls-25.doppiocdn.live/hls/171976063/171976063_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/2/7/a27fd98f2c18881862f34e193654f742-thumb-small" group-title="stripchat", orange669 
-https://b-hls-01.doppiocdn.live/hls/171556350/171556350_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/7/1/e/71e1a78e6c8b5cb62e64215f713dcaa6-thumb-small" group-title="stripchat", Duduya_ 
-https://b-hls-23.doppiocdn.live/hls/175621908/175621908.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/5/4/b548dbf16e38e28631d6cf417c23ac0d-thumb-small" group-title="stripchat", paopao-a 
-https://b-hls-08.doppiocdn.live/hls/163969087/163969087_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/a/e/eae15bdab4574deb851ff86616e5100a-thumb-small" group-title="stripchat", FerFairy 
-https://b-hls-14.doppiocdn.live/hls/157005384/157005384_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/e/3/be3fe103d4bf1a49467b9537d3d1debd-thumb-small" group-title="stripchat", Riii_woooan 
 https://b-hls-20.doppiocdn.live/hls/147238002/147238002_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/3/2/e325d43e4427223eb55c2f44d63d9d12-thumb-small" group-title="stripchat", Mila825 
