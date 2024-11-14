@@ -1,30 +1,52 @@
-#EXTM3U # Last Updated: 2024-11-14 16:21:40
+#EXTM3U # Last Updated: 2024-11-14 17:13:22
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/4/0/44087821af4be051f9539d416342b9f7-thumb-small" group-title="stripchat", Lisa-s 
 https://b-hls-08.doppiocdn.live/hls/151886378/151886378.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/8/0/2/80233b43b722210f6a6195fd5a5d77e2-thumb-small" group-title="stripchat", candy-yiyi 
 https://b-hls-14.doppiocdn.live/hls/66502571/66502571_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/2/8/028757ee145b10bbbfd826c129d8ab33-thumb-small" group-title="stripchat", IssDoris 
+https://b-hls-24.doppiocdn.live/hls/169808927/169808927.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/1/c/e/1ce5972b53d7f3a081266489f75f8411-thumb-small" group-title="stripchat", Aster_Hoa 
+https://b-hls-20.doppiocdn.live/hls/158119256/158119256_480p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/7/0/3/7038fe7de695ba49a25d849ad8adacf6-thumb-small" group-title="stripchat", Lan-mei 
-https://b-hls-22.doppiocdn.live/hls/132789258/132789258_720p.m3u8
+https://b-hls-03.doppiocdn.live/hls/132789258/132789258_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/9/4/9/949d9f923322e619554f5390c074e277-thumb-small" group-title="stripchat", Oo_Kaixin_oO 
+https://b-hls-09.doppiocdn.live/hls/99704428/99704428_1080p.m3u8?playlistType=standard
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/5/b/1/5b155c733edbc1e73b31864d8d751e31-thumb-small" group-title="stripchat", tingting66 
-https://b-hls-04.doppiocdn.live/hls/129981264/129981264.m3u8?playlistType=standard
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/3/5/a35e9e39e32b9fe8dbd285d751b7d868-thumb-small" group-title="stripchat", Game_yoyo 
-https://b-hls-08.doppiocdn.live/hls/116052738/116052738_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/5/7/457c538784d750c6a30414a45b7c91d7-thumb-small" group-title="stripchat", AKiKi711 
-https://b-hls-01.doppiocdn.live/hls/114856666/114856666_720p.m3u8
+https://b-hls-21.doppiocdn.live/hls/129981264/129981264.m3u8?playlistType=standard
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/7/c/a/7ca44546d220ec6862a1d45990855392-thumb-small" group-title="stripchat", Mia826 
-https://b-hls-09.doppiocdn.live/hls/169138603/169138603.m3u8
+https://b-hls-14.doppiocdn.live/hls/169138603/169138603.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/0/6/f06a6e8ed55f6e4daf2804078ba936e1-thumb-small" group-title="stripchat", lailai888 
 https://b-hls-23.doppiocdn.live/hls/69546702/69546702_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/d/d/1/dd103440fab3a41da6a4b4a0b4f76ea4-thumb-small" group-title="stripchat", LeLe-666 
+https://b-hls-14.doppiocdn.live/hls/167157785/167157785.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/d/7/7/d7700d84ea5496f8b63f8847e473c722-thumb-small" group-title="stripchat", Q-Babyy 
+https://b-hls-05.doppiocdn.live/hls/139432855/139432855_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/f/7/3f7fd1e7a856d8af211c89fd019d31cf-thumb-small" group-title="stripchat", Villagechief 
+https://b-hls-21.doppiocdn.live/hls/84823722/84823722_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/6/e/e6ef25e9e200c2d33f857eaee7b8d0ed-thumb-small" group-title="stripchat", MENGqi33333 
+https://b-hls-03.doppiocdn.live/hls/173759046/173759046_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/c/1/fc1986aa4334a7e642624283a94a2057-thumb-small" group-title="stripchat", Taozi77-Q1 
+https://b-hls-18.doppiocdn.live/hls/156681520/156681520.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/1/a/e1ab901b057ac65507c2f0573e9117f0-thumb-small" group-title="stripchat", Qiyue_13 
+https://b-hls-21.doppiocdn.live/hls/168388215/168388215.m3u8?playlistType=standard
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/6/4/0/6403e45e1e0e5db6d439138251313dca-thumb-small" group-title="stripchat", -XIAO- 
+https://b-hls-25.doppiocdn.live/hls/170977892/170977892.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/3/2/e325d43e4427223eb55c2f44d63d9d12-thumb-small" group-title="stripchat", Mila825 
+https://b-hls-15.doppiocdn.live/hls/169125259/169125259.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/c/9/ac96bc868368f04c48afc56ad8dbf386-thumb-small" group-title="stripchat", Aami-521 
+https://b-hls-02.doppiocdn.live/hls/160925065/160925065_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/3/5/a35e9e39e32b9fe8dbd285d751b7d868-thumb-small" group-title="stripchat", Game_yoyo 
+https://b-hls-13.doppiocdn.live/hls/116052738/116052738_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/e/e/2ee9d0ada65346fa3db01cb5cfa6a801-thumb-small" group-title="stripchat", Baby-weiwei 
 https://b-hls-01.doppiocdn.live/hls/161601002/161601002_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/d/b/e/dbe78ad040e41f72cf357f87547623f8-thumb-small" group-title="stripchat", yoyoyo_99 
+https://b-hls-07.doppiocdn.live/hls/91895007/91895007_720p60.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/1/6/a165176ef7948b0303e014efaf46cb6d-thumb-small" group-title="stripchat", tina0604 
+https://b-hls-02.doppiocdn.live/hls/123777793/123777793_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/5/7/457c538784d750c6a30414a45b7c91d7-thumb-small" group-title="stripchat", AKiKi711 
+https://b-hls-01.doppiocdn.live/hls/114856666/114856666_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/a/e/bae53f1ecd8d107b9f272120c11d9904-thumb-small" group-title="stripchat", Lalala-lalala1119 
 https://b-hls-22.doppiocdn.live/hls/160871963/160871963_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/d/b/e/dbe78ad040e41f72cf357f87547623f8-thumb-small" group-title="stripchat", yoyoyo_99 
-https://b-hls-25.doppiocdn.live/hls/91895007/91895007_720p60.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/2/8/028757ee145b10bbbfd826c129d8ab33-thumb-small" group-title="stripchat", IssDoris 
-https://b-hls-09.doppiocdn.live/hls/169808927/169808927.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/1/c/e/1ce5972b53d7f3a081266489f75f8411-thumb-small" group-title="stripchat", Aster_Hoa 
-https://b-hls-09.doppiocdn.live/hls/158119256/158119256.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/7/6/f769ec214d98a93a78782cfeb136317f-thumb-small" group-title="stripchat", vyizh- 
 https://b-hls-06.doppiocdn.live/hls/111554802/111554802_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/2/e/02edf75778663c3c3351fa673efc83f4-thumb-small" group-title="stripchat", sun-mm 
