@@ -1,4 +1,8 @@
-#EXTM3U # Last Updated: 2024-11-18 00:50:00
+#EXTM3U # Last Updated: 2024-11-18 00:50:10
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/c/2/a/c2ab69f58600dfd5ac5126c28f66e377-thumb-small" group-title="stripchat", Luckiss 
+https://b-hls-20.doppiocdn.live/hls/125195669/125195669_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/5/9/259c18dbbc1c04fabf59333d73c93d91-thumb-small" group-title="stripchat", _xiaoqi_ 
+https://b-hls-08.doppiocdn.live/hls/177921772/177921772.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/2/7/a27fd98f2c18881862f34e193654f742-thumb-small" group-title="stripchat", orange669 
 https://b-hls-21.doppiocdn.live/hls/171556350/171556350.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/7/1/e/71e1a78e6c8b5cb62e64215f713dcaa6-thumb-small" group-title="stripchat", Duduya_ 
@@ -53,10 +57,6 @@ https://b-hls-17.doppiocdn.live/hls/134591251/134591251_720p.m3u8?playlistType=l
 https://b-hls-09.doppiocdn.live/hls/156276876/156276876_1080p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/b/1/2b106e932efebff197dd45042856b018-thumb-small" group-title="stripchat", cecilia0903 
 https://b-hls-12.doppiocdn.live/hls/130468819/130468819_720p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/c/2/a/c2ab69f58600dfd5ac5126c28f66e377-thumb-small" group-title="stripchat", Luckiss 
-https://b-hls-20.doppiocdn.live/hls/125195669/125195669_720p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/5/9/259c18dbbc1c04fabf59333d73c93d91-thumb-small" group-title="stripchat", _xiaoqi_ 
-https://b-hls-08.doppiocdn.live/hls/177921772/177921772.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/2/e/02edf75778663c3c3351fa673efc83f4-thumb-small" group-title="stripchat", sun-mm 
 https://b-hls-19.doppiocdn.live/hls/113254435/113254435_1080p60.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/8/1/0/8101f1bbf88ec60c7b84bd8217e5bea0-thumb-small" group-title="stripchat", Nonchan_ 
