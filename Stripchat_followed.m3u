@@ -1,4 +1,14 @@
-#EXTM3U # Last Updated: 2024-11-18 00:50:10
+#EXTM3U # Last Updated: 2024-11-18 00:50:34
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/1/a/e/1aedbf218660980015ccbb5558ecf9de-thumb-small" group-title="stripchat", Perla_170 
+https://b-hls-25.doppiocdn.live/hls/168909043/168909043_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/5/4/0/540572b08dbcaee1cde16e73bfc31e54-thumb-small" group-title="stripchat", AnAn-520 
+https://b-hls-13.doppiocdn.live/hls/171655729/171655729_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/9/0/b907de31ba4711e04104ed09430bc1ae-thumb-small" group-title="stripchat", Lucille-baby 
+https://b-hls-18.doppiocdn.live/hls/89216753/89216753_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/5/d/45d47f8d4fbb1f9fa1455bf4c7356281-thumb-small" group-title="stripchat", wen_rou 
+https://b-hls-17.doppiocdn.live/hls/134591251/134591251_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/b/1/2b106e932efebff197dd45042856b018-thumb-small" group-title="stripchat", cecilia0903 
+https://b-hls-12.doppiocdn.live/hls/130468819/130468819_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/c/2/a/c2ab69f58600dfd5ac5126c28f66e377-thumb-small" group-title="stripchat", Luckiss 
 https://b-hls-20.doppiocdn.live/hls/125195669/125195669_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/5/9/259c18dbbc1c04fabf59333d73c93d91-thumb-small" group-title="stripchat", _xiaoqi_ 
@@ -43,20 +53,10 @@ https://b-hls-07.doppiocdn.live/hls/98008787/98008787_1080p60.m3u8?playlistType=
 https://b-hls-12.doppiocdn.live/hls/146480163/146480163_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/9/5/7/957cd87b9e41f06a7ed8cbf3e6667b99-thumb-small" group-title="stripchat", sililis 
 https://b-hls-12.doppiocdn.live/hls/148107393/148107393_1080p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/1/a/e/1aedbf218660980015ccbb5558ecf9de-thumb-small" group-title="stripchat", Perla_170 
-https://b-hls-25.doppiocdn.live/hls/168909043/168909043_720p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/5/4/0/540572b08dbcaee1cde16e73bfc31e54-thumb-small" group-title="stripchat", AnAn-520 
-https://b-hls-13.doppiocdn.live/hls/171655729/171655729_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/5/2/452ec6031293094610d3570a78c8d92e-thumb-small" group-title="stripchat", Lucky_miao 
 https://b-hls-16.doppiocdn.live/hls/170893901/170893901_480p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/9/0/b907de31ba4711e04104ed09430bc1ae-thumb-small" group-title="stripchat", Lucille-baby 
-https://b-hls-18.doppiocdn.live/hls/89216753/89216753_480p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/5/d/45d47f8d4fbb1f9fa1455bf4c7356281-thumb-small" group-title="stripchat", wen_rou 
-https://b-hls-17.doppiocdn.live/hls/134591251/134591251_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/a/f/4af2700340a4a5f00b249be2fbaa7c30-thumb-small" group-title="stripchat", ruoling_19 
 https://b-hls-09.doppiocdn.live/hls/156276876/156276876_1080p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/b/1/2b106e932efebff197dd45042856b018-thumb-small" group-title="stripchat", cecilia0903 
-https://b-hls-12.doppiocdn.live/hls/130468819/130468819_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/2/e/02edf75778663c3c3351fa673efc83f4-thumb-small" group-title="stripchat", sun-mm 
 https://b-hls-19.doppiocdn.live/hls/113254435/113254435_1080p60.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/8/1/0/8101f1bbf88ec60c7b84bd8217e5bea0-thumb-small" group-title="stripchat", Nonchan_ 
