@@ -1,4 +1,8 @@
-#EXTM3U # Last Updated: 2024-11-18 00:50:34
+#EXTM3U # Last Updated: 2024-11-18 00:50:46
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/a/6/ea6cdb213feaf8953836adbce5d31fcc-thumb-small" group-title="stripchat", CC__66 
+https://b-hls-12.doppiocdn.live/hls/146480163/146480163_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/9/5/7/957cd87b9e41f06a7ed8cbf3e6667b99-thumb-small" group-title="stripchat", sililis 
+https://b-hls-12.doppiocdn.live/hls/148107393/148107393_1080p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/1/a/e/1aedbf218660980015ccbb5558ecf9de-thumb-small" group-title="stripchat", Perla_170 
 https://b-hls-25.doppiocdn.live/hls/168909043/168909043_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/5/4/0/540572b08dbcaee1cde16e73bfc31e54-thumb-small" group-title="stripchat", AnAn-520 
@@ -49,10 +53,6 @@ https://b-hls-15.doppiocdn.live/hls/44568216/44568216_1080p.m3u8?playlistType=lo
 https://b-hls-13.doppiocdn.live/hls/149918115/149918115_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/1/c/f/1cfee9b57c776f42dc141e8a6a292827-thumb-small" group-title="stripchat", Aimee-520 
 https://b-hls-07.doppiocdn.live/hls/98008787/98008787_1080p60.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/a/6/ea6cdb213feaf8953836adbce5d31fcc-thumb-small" group-title="stripchat", CC__66 
-https://b-hls-12.doppiocdn.live/hls/146480163/146480163_720p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/9/5/7/957cd87b9e41f06a7ed8cbf3e6667b99-thumb-small" group-title="stripchat", sililis 
-https://b-hls-12.doppiocdn.live/hls/148107393/148107393_1080p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/5/2/452ec6031293094610d3570a78c8d92e-thumb-small" group-title="stripchat", Lucky_miao 
 https://b-hls-16.doppiocdn.live/hls/170893901/170893901_480p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/a/f/4af2700340a4a5f00b249be2fbaa7c30-thumb-small" group-title="stripchat", ruoling_19 
