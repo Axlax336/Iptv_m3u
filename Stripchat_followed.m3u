@@ -1,12 +1,16 @@
-#EXTM3U # Last Updated: 2024-11-20 09:11:53
+#EXTM3U # Last Updated: 2024-11-20 09:17:40
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/8/0/2/80233b43b722210f6a6195fd5a5d77e2-thumb-small" group-title="stripchat", candy-yiyi 
 https://b-hls-06.doppiocdn.live/hls/66502571/66502571_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/a/c/3ac47a91c8230c095c71361ca6998046-thumb-small" group-title="stripchat", dodo-521 
+https://b-hls-24.doppiocdn.live/hls/167817741/167817741_720p60.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/9/7/9/97937ac2272cd86b4756ebfb64ff2024-thumb-small" group-title="stripchat", CoCo-SS 
 https://b-hls-08.doppiocdn.live/hls/174807569/174807569_720p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/5/d/b5db8e28f3d0867be79220864f722e00-thumb-small" group-title="stripchat", UUKiss_ 
+https://b-hls-16.doppiocdn.live/hls/161840715/161840715.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/2/5/9/259c18dbbc1c04fabf59333d73c93d91-thumb-small" group-title="stripchat", _xiaoqi_ 
 https://b-hls-24.doppiocdn.live/hls/177921772/177921772.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/6/a/d/6ad214caa1e27fa4ac109c04e0731aeb-thumb-small" group-title="stripchat", bdbdzs 
-https://b-hls-22.doppiocdn.live/hls/168358223/168358223.m3u8?playlistType=lowLatency
+https://b-hls-22.doppiocdn.live/hls/168358223/168358223_480p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/7/f/d/7fde022bde9789e92e45fb6df0764f3d-thumb-small" group-title="stripchat", -O_mei- 
 https://b-hls-09.doppiocdn.live/hls/141043675/141043675_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/d/a/9/da931215266c940ae0fc3f85701b2252-thumb-small" group-title="stripchat", HAPPY-168 
@@ -35,8 +39,6 @@ https://b-hls-04.doppiocdn.live/hls/172532090/172532090_720p.m3u8?playlistType=l
 https://b-hls-16.doppiocdn.live/hls/148107393/148107393_1080p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/e/8/a/e8ab41eb335c9fdf39a2ce22971e8bc5-thumb-small" group-title="stripchat", Sexyxiao_520 
 https://b-hls-25.doppiocdn.live/hls/177147582/177147582_720p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/5/d/b5db8e28f3d0867be79220864f722e00-thumb-small" group-title="stripchat", UUKiss_ 
-https://b-hls-09.doppiocdn.live/hls/161840715/161840715.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/4/5/d/45d47f8d4fbb1f9fa1455bf4c7356281-thumb-small" group-title="stripchat", wen_rou 
 https://b-hls-02.doppiocdn.live/hls/134591251/134591251_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/0/9/f091184b310f93615696b9fe1daf86c8-thumb-small" group-title="stripchat", xixixi 
@@ -167,8 +169,6 @@ https://b-hls-24.doppiocdn.live/hls/161601002/161601002.m3u8?playlistType=lowLat
 https://b-hls-02.doppiocdn.live/hls/173759046/173759046_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/c/1/fc1986aa4334a7e642624283a94a2057-thumb-small" group-title="stripchat", Taozi77-Q1 
 https://b-hls-13.doppiocdn.live/hls/156681520/156681520.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/a/c/3ac47a91c8230c095c71361ca6998046-thumb-small" group-title="stripchat", dodo-521 
-https://b-hls-12.doppiocdn.live/hls/167817741/167817741_480p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/c/2/9/c290fe0114b5c5a87631fa2d0a372da9-thumb-small" group-title="stripchat", Milana_Crystal_ 
 https://b-hls-05.doppiocdn.live/hls/114881314/114881314_1080p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/d/f/0df74bf64ae56701da58720b1c9d0aad-thumb-small" group-title="stripchat", SarahYang 
