@@ -1,4 +1,8 @@
-#EXTM3U # Last Updated: 2024-11-20 12:06:12
+#EXTM3U # Last Updated: 2024-11-20 12:06:47
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/c/3/3c37aa550ff554841ad876327989eb9a-thumb-small" group-title="stripchat", CN-xiaofei 
+https://b-hls-24.doppiocdn.live/hls/158600423/158600423.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/5/d/b5db8e28f3d0867be79220864f722e00-thumb-small" group-title="stripchat", UUKiss_ 
+https://b-hls-16.doppiocdn.live/hls/161840715/161840715.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/8/2/f/82f65925efc1adb02483c6cfe4a54abd-thumb-small" group-title="stripchat", Mimiki-oo 
 https://b-hls-05.doppiocdn.live/hls/177637172/177637172_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/3/8/f388d0c368c3881c83ca6947fa7fedea-thumb-small" group-title="stripchat", Mila-Baby6 
@@ -31,10 +35,6 @@ https://b-hls-08.doppiocdn.live/hls/174807569/174807569_720p.m3u8?playlistType=l
 https://b-hls-09.doppiocdn.live/hls/171655729/171655729_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/6/a/3/6a3ae04a4e68ca830726425a1fd4af0d-thumb-small" group-title="stripchat", ooo___mimi 
 https://b-hls-06.doppiocdn.live/hls/158699489/158699489.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/c/3/3c37aa550ff554841ad876327989eb9a-thumb-small" group-title="stripchat", CN-xiaofei 
-https://b-hls-24.doppiocdn.live/hls/158600423/158600423.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/b/5/d/b5db8e28f3d0867be79220864f722e00-thumb-small" group-title="stripchat", UUKiss_ 
-https://b-hls-16.doppiocdn.live/hls/161840715/161840715.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/7/f/d/7fde022bde9789e92e45fb6df0764f3d-thumb-small" group-title="stripchat", -O_mei- 
 https://b-hls-09.doppiocdn.live/hls/141043675/141043675_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/d/a/9/da931215266c940ae0fc3f85701b2252-thumb-small" group-title="stripchat", HAPPY-168 
