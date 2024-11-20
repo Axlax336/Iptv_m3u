@@ -1,4 +1,4 @@
-#EXTM3U # Last Updated: 2024-11-20 09:17:40
+#EXTM3U # Last Updated: 2024-11-20 09:40:54
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/8/0/2/80233b43b722210f6a6195fd5a5d77e2-thumb-small" group-title="stripchat", candy-yiyi 
 https://b-hls-06.doppiocdn.live/hls/66502571/66502571_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/a/c/3ac47a91c8230c095c71361ca6998046-thumb-small" group-title="stripchat", dodo-521 
@@ -15,6 +15,8 @@ https://b-hls-22.doppiocdn.live/hls/168358223/168358223_480p.m3u8?playlistType=l
 https://b-hls-09.doppiocdn.live/hls/141043675/141043675_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/d/a/9/da931215266c940ae0fc3f85701b2252-thumb-small" group-title="stripchat", HAPPY-168 
 https://b-hls-15.doppiocdn.live/hls/172225775/172225775_1080p.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/3/8/f388d0c368c3881c83ca6947fa7fedea-thumb-small" group-title="stripchat", Mila-Baby6 
+https://b-hls-22.doppiocdn.live/hls/175905857/175905857_1080p60.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/8/6/b/86bfba2743a5207ac939913ea0716fb6-thumb-small" group-title="stripchat", Camelliav 
 https://b-hls-13.doppiocdn.live/hls/176849724/176849724_720p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/a/c/9/ac96bc868368f04c48afc56ad8dbf386-thumb-small" group-title="stripchat", Aami-521 
@@ -173,8 +175,6 @@ https://b-hls-13.doppiocdn.live/hls/156681520/156681520.m3u8?playlistType=lowLat
 https://b-hls-05.doppiocdn.live/hls/114881314/114881314_1080p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/0/d/f/0df74bf64ae56701da58720b1c9d0aad-thumb-small" group-title="stripchat", SarahYang 
 https://b-hls-01.doppiocdn.live/hls/172737270/172737270_1080p.m3u8?playlistType=lowLatency
-#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/f/3/8/f388d0c368c3881c83ca6947fa7fedea-thumb-small" group-title="stripchat", Mila-Baby6 
-https://b-hls-21.doppiocdn.live/hls/175905857/175905857_1080p60.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/f/c/3fca7ce0c2dddf14db9a232d6c16dee2-thumb-small" group-title="stripchat", SheenaDrye 
 https://b-hls-22.doppiocdn.live/hls/177447050/177447050_1080p.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/previews/3/d/b/3db325c305bb2a6009044a3788e399be-thumb-small" group-title="stripchat", Aisi-20 
